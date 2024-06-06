@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: #c4b9b9;
+}
+
+
+
+.container{
+    width: 100%;
+    margin-top: 1.5rem;
+}
+
+.container img{
+    width: 100%;
+    -webkit-user-drag: none;
+}
